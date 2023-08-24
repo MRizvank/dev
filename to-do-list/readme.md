@@ -1,5 +1,9 @@
 <h1>ElegantToDo: A Stylish Todo-List Application</h1>
 <p>ElegantToDois a sophisticated and user-friendly web-based todo-list application crafted using modern web development technologies. This application seamlessly integrates EJS, Express, and Node.js on the backend, creating a dynamic and responsive experience for users to manage their tasks effectively. With a sleek and intuitive user interface designed using CSS, ElegantToDo brings a touch of elegance to your daily task management.</p>
+<h2>To Run this project</h2>
+<p>At first clone this project by <code>git clone </code>then install the dependencies by <code>npm I or npm install</code><br>to run this project in your local machine  goto the directory and <code>npm run server</code> <br>by doing this the server will run in </p>
+
+[http://localhost:3000](http://localhost:3000)
 <h2>Key Features:</h3>
 
 <br>
