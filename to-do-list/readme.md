@@ -1,5 +1,5 @@
 <h1>ElegantToDo: A Stylish Todo-List Application</h1>
-<p>Todo-list is a sophisticated and user-friendly web-based todo-list application crafted using modern web development technologies. This application seamlessly integrates EJS, Express, and Node.js on the backend, creating a dynamic and responsive experience for users to manage their tasks effectively. With a sleek and intuitive user interface designed using CSS, ElegantToDo brings a touch of elegance to your daily task management.</p>
+<p>ElegantToDois a sophisticated and user-friendly web-based todo-list application crafted using modern web development technologies. This application seamlessly integrates EJS, Express, and Node.js on the backend, creating a dynamic and responsive experience for users to manage their tasks effectively. With a sleek and intuitive user interface designed using CSS, ElegantToDo brings a touch of elegance to your daily task management.</p>
 <h2>Key Features:</h3>
 <br>
 <h3>Task Categorization: </h3>
