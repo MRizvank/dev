@@ -1,1 +1,1 @@
-{ "today": [], "work": [] }
+{"today":[{"text":"Do your study","status":false},{"text":"Do homework","status":false},{"text":"Study hard","status":false}],"work":[{"text":"Complete the project this week","status":false},{"text":"Create a new portfolio","status":false}]}
