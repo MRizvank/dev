@@ -5,7 +5,7 @@ const workRoutes = express.Router();
 workRoutes.get("/", (req, res) => {
   let data = fs.readFileSync("./db/db.json", "utf-8");
   data = JSON.parse(data);
-  res.render("Work.ejs", { List: data.worK });
+  res.render("Work.ejs", { List: data.work });
 });
 workRoutes.post("/", (req, res) => {
   let data = fs.readFileSync("./db/db.json", "utf-8");
